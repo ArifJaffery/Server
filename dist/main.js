@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var main = /** @class */ (function () {
     function main() {
-        console.log('----------------First Gulp Example');
+        console.log('AAAAAAAA----------------First Gulp Example');
     }
     return main;
 }());

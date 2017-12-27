@@ -1,10 +1,1 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
-var main = /** @class */ (function () {
-    function main() {
-        console.log('AAAAAAAA----------------First Gulp Example');
-    }
-    return main;
-}());
-exports.main = main;
-exports.default = new main();
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var main=function(){return function(){console.log("First Gulp Example....")}}();exports.main=main,exports.default=new main;
